@@ -1,0 +1,3 @@
+﻿  Challenges.cpp
+V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\Challenges\Challenges\Challenges.cpp(149,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Challenges.vcxproj -> V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\Challenges\Debug\Challenges.exe

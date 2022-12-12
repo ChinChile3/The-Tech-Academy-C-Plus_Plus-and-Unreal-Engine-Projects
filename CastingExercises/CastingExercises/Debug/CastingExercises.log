@@ -1,0 +1,4 @@
+﻿  CastingExercises.cpp
+V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\CastingExercises\CastingExercises\CastingExercises.cpp(15,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\CastingExercises\CastingExercises\CastingExercises.cpp(23,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CastingExercises.vcxproj -> V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\CastingExercises\Debug\CastingExercises.exe
