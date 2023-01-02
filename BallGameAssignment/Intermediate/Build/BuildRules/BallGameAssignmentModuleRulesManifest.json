@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"V:\\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\\BallGameAssignment\\Source\\BallGameAssignment\\BallGameAssignment.Build.cs",
+		"V:\\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\\BallGameAssignment\\Source\\BallGameAssignment.Target.cs",
+		"V:\\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\\BallGameAssignment\\Source\\BallGameAssignmentEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

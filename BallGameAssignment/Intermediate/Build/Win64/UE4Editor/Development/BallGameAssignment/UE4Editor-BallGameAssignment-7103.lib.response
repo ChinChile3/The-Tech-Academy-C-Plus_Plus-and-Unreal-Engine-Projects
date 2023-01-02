@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BallGameAssignment-7103.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\BallGameAssignmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\UE4Editor\Development\BallGameAssignment\BallGameAssignment.cpp.obj"
+"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\UE4Editor\Development\BallGameAssignment\MainMenu.cpp.obj"
+"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\UE4Editor\Development\BallGameAssignment\BallGameAssignment.init.gen.cpp.obj"
+"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\UE4Editor\Development\BallGameAssignment\MainMenu.gen.cpp.obj"
+"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\UE4Editor\Development\BallGameAssignment\Default.rc2.res"
+/OUT:"V:\The-Tech-Academy-C-Plus_Plus-and-Unreal-Engine-Projects\BallGameAssignment\Intermediate\Build\Win64\UE4Editor\Development\BallGameAssignment\UE4Editor-BallGameAssignment-7103.lib"
